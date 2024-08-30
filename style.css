@@ -1,0 +1,16 @@
+*{
+    background-color: rgba(14, 180, 209, 0.829);
+}
+
+h1{
+    text-align: center;
+}
+
+#ket_img{
+   width: 100px;
+   height: 100px;
+}
+
+p{
+    background-color: aliceblue;
+}
