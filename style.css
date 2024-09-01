@@ -2,6 +2,16 @@
     background-color: rgba(14, 180, 209, 0.829);
 }
 
+.navigation{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.navigation:hover{
+    background-color: aliceblue;
+}
+
 h1{
     text-align: center;
 }
